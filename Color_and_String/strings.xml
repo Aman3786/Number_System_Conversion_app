@@ -1,16 +1,16 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string name="app_name">Convert It</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_Close">Close navigation drawer</string>
+   
+
     <string name="about">
            "Convert It"
     </string>
     <string name="creater">
         CREATED BY:\n
-       \t\t\t\tSHAIKH SHAHID\n
-        \t\t\t\tSHAIKH AMAAN\n
-        \t\t\t\tABDUL RAHIM\n
-        \t\t\t\tKHAN ASHRAF
+       \t\t\t\tExample name1\n
+        \t\t\t\tExample name2\n
+        \t\t\t\tExample name3\n
+        \t\t\t\tExample name4\n
     </string>
 
     <string name="app_desc">
@@ -21,7 +21,7 @@
 
     <string name="mam">
         UNDER THE GUIDANCE OF:\n
-          \tPROF. REHAAL QURESHI
+          \tExample name5
 
     </string>
 </resources>
