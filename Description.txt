@@ -1,0 +1,2 @@
+In these application,user can convert from one number system to any number system in a dynamic way.
+It also contain some theory part(i.e. method of conversion),so user can have better understanding about the number system
