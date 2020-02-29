@@ -1,0 +1,3 @@
+In these there are two files which have the color file and string file
+The color file have the color codes that we have used in application which is in xml code.
+The string file have all the content that we have written inside the application.
