@@ -1,0 +1,2 @@
+This part consist of values that is given in the application to make it stylish.
+In this part,we assigned different values to different parameters like colorprimarydark,coloraccent etc.
